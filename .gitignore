@@ -1,0 +1,64 @@
+## Файли збірки
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]og/
+[Ll]ogs/
+
+## Папка з кешем VS
+.vs/
+.vscode/
+
+## Користувацькі налаштування
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Результати тестів
+TestResults/
+*.VisualState.xml
+*.cache
+*.pdb
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Тимчасові файли
+*.tmp
+*.bak
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+
+## IDE/Editor конфігурація
+*.sdf
+*.opensdf
+*.VC.db
+
+## Папка публікації
+publish/
+wwwroot/
+
+## Rider/JetBrains
+.idea/
+
+## OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## MacOS
+.DS_Store
+
+## Git
+*.orig
